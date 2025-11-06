@@ -1,0 +1,20 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"version": "1.0.0",
+	"description": "Proyecto de práctica para aprender a manejar Node.js y npm con freeCodeCamp",
+    "keywords": ["freecodecamp", "backend", "nodejs", "api"],
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js",
+		"test": "echo Hello World"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+	},
+	"author": "RICARDO MARIN",
+	 "license": "MIT"
+}
